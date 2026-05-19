@@ -1,1 +1,6 @@
 npm/node_modules/
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node_modules inside your specific app directory
+Src/Test/app/node_modules/
