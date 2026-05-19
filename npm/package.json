@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-uuid": "1.4.8"
+    "ajv": "6.12.6",
+    "package.json": "^2.0.1"
   }
 }
