@@ -7,7 +7,7 @@
       "test": "jest"
     },
     "dependencies": {
-      "adm-zip": "0.4.11"
+      "adm-zip": "0.6.0"
     },
     "devDependencies": {
       "jest": "^29.0.0"
